@@ -1,7 +1,7 @@
 {
 	"email": "email",
 	"password": "password",
-	"login": "login",
+	"login": "Login",
 	"email-required": "A valid email is required",
 	"password-required": "A 8 characters password is required",
 	"credentials": "Your email/password are invalid",
