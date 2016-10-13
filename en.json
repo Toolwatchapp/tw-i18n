@@ -1,5 +1,6 @@
 {
 	"email": "email",
+	"signin-loading": "We are signin you up",
 	"password": "password",
 	"login": "Login",
 	"email-required": "A valid email is required",
