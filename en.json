@@ -71,7 +71,7 @@
 	"about-works":"Toolwatch synchronizes your browser with the U. S. Naval Observatory's atomic clocks cluster which produces a weighted average of several commercial atomic frequency standards. It is dominated by six active hydrogen masers, there are also a number of commercial cesium beam-tube standards in the cluster. We also account for the networking time between you and Toolwatch' servers. To put it simply, we do not use your computer clock but the most accurate atomic clock on earth to synchronize your timepieces.",
 	"have-account": "Don't have an account?",
 	"email-register": "Register now",
-	"facebook-login": "Login with facebook",
+	"facebook-login": "Login with Facebook",
 	"generic-share": "Discover the accuracy of your mechanical watch #toolwatch",
 	"logging-in": "We are logging you in",
 	"signin-slogan": "Fill the form bellow to create your account",
