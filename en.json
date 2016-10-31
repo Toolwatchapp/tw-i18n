@@ -94,6 +94,7 @@
 	"accuracy-percentil-short": "acc rank",
 	"spd-short": "spd",
 	"action":"action",
+	"min":"min",
 	"accuracy-age-title":"Time flies...",
 	"accuracy-age-warning":"Your measure is now ",
 	"accuracy-age-warning-contd":" days old. You might want to measure it again and make sure everything is ok.",
