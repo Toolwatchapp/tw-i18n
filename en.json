@@ -98,6 +98,7 @@
 	"accuracy-age-warning":"Your measure is now ",
 	"accuracy-age-warning-contd":" days old. You might want to measure it again and make sure everything is ok.",
 	"below-average-title":"Improve your accuracy",
+	"above-average": "Your watch's accuracy is above average.",
 	"below-average": "Your watch's accuracy is below average.",
 	"below-average-20-10": "Lay the watch flat for a few hours (dial uppermost) to gain a few spds.",
 	"below-average-10-25": "Put the watch vertically on the case side (crown downwards) to loose a few spds",
