@@ -31,6 +31,8 @@
 	"slogan": "The most convenient way to measure the accuracy of your mechanical watch",
 	"delete-watch-alert": "Delete watch",
 	"delete-watch-confirm": "Do you want to delete your ",
+	"delete-pending-measure": "Delete pending measure",
+	"delete-pending-measure-confirm": "Do you want to delete your pending measure ?",
 	"confirm": "Confirm",
 	"cancel": "Cancel",
 	"dasboard": "Dashboard",
