@@ -1,0 +1,17 @@
+{
+  "name": "toolwatch-i18n",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "files": [
+    "lang"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toolwatchapp/i18n"
+  },
+  "bugs": {
+    "url": "https://github.com/toolwatchapp/i18n/issues"
+  },
+  "author": "Mathieu Nayrolles <mathieu.nayrolles@gmail.com>"
+}
