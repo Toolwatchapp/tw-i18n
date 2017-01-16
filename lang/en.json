@@ -113,5 +113,6 @@
 	"password-reset-desc": "Enter your email below and we'll send you an email to reset your password.",
 	"logout": "Logout",
 	"delete-account": "Delete your account",
-	"delete-account-warning": "Deleting your account is an action that cannot be undone. All your watches and measures will be erased. There is nothing we can do to bring them back."
+	"delete-account-warning": "Deleting your account is an action that cannot be undone. All your watches and measures will be erased. There is nothing we can do to bring them back.",
+	"contact": "Contact Us"
 }
