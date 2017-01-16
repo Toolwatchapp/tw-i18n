@@ -108,5 +108,10 @@
 	"below-average-10-25": "Put the watch vertically on the case side (crown downwards) to loose a few spds",
 	"below-average-25": "Put the watch vertically on the case side (crown upwards) to loose spds.",
 	"servicing":"If it doesn't help, get your watch serviced.",
-	"buy-us-beer":"Buy Us a Beer" 
+	"buy-us-beer":"Buy Us a Beer",
+	"password-reset": "Forgot your password?",
+	"password-reset-desc": "Enter your email below and we'll send you an email to reset your password.",
+	"logout": "Logout",
+	"delete-account": "Delete your account",
+	"delete-account-warning": "Deleting your account is an action that cannot be undone. All your watches and measures will be erased. There is nothing we can do to bring them back."
 }
