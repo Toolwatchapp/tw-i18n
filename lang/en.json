@@ -115,5 +115,6 @@
 	"delete-account-warning": "Deleting your account is an action that cannot be undone. All your watches and measures will be erased. There is nothing we can do to bring them back.",
 	"watch-add-error": "Please check that you entered a correct brand and/or model for the watch you wish to add",
 	"loading-dashboard": "Loading your dashboard",
-	"contact": "Contact Us"
+	"contact": "Contact Us",
+	"more": "More"
 }
